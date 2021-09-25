@@ -1,0 +1,17 @@
+{
+    "name": "Ava DEFI Fr",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/symbol": "ADFIFR",
+        "/category/asset_value_tracking/core-token/name": "Avalanche DEFI Fr",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "10000",
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "multiple",
+        "/category/collection/core-entity": true
+    }
+}
